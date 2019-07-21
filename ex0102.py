@@ -5,4 +5,4 @@
 # @Author :  ()
 # @Link   : 
 # @Date   : 2019/7/22 ä¸????4:16:50
-print("ok_1")
+print("ok")
